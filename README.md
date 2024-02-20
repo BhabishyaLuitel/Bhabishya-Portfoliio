@@ -1,36 +1,69 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Bhabishya Luitel's Portfolio Website
+
+Welcome to the GitHub repository for my personal portfolio website. This project is designed to showcase my professional skills, projects, and experiences. Built with Next.js, Tailwind CSS, and TypeScript, it focuses on delivering a responsive and interactive user experience.
+
+## Features
+
+- **Responsive Design**: Ensures optimal viewing across various devices and screen sizes.
+- **Modern UI/UX**: Features a clean, modern design that highlights content and enhances user engagement.
+- **Portfolio Showcase**: A dedicated section to display professional work, projects, and accomplishments.
+- **Contact Form**: Enables visitors to easily get in touch with me.
 
 ## Getting Started
 
-First, run the development server:
+To set up the project locally for development and testing, follow these steps:
+
+### Prerequisites
+
+- Ensure you have Node.js (version 12 or newer) installed on your machine.
+
+### Installation
+
+1. **Clone the repository**
+
+```bash
+git clone https://github.com/BhabishyaLuitel/Bhabishya-Portfoliio.git
+```
+
+2. **Navigate to the project directory**
+
+```bash
+cd Bhabishya-Portfoliio
+```
+
+3. **Install dependencies**
+
+```bash
+npm install
+```
+
+4. **Run the development server**
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Visit http://localhost:3000 to view the site locally.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Project Structure
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- `app/`: Main application logic, including components and layout.
+- `public/`: Static assets like images and fonts.
+- `globals.css`: Global styles for the website.
+- `next.config.mjs`: Configuration for Next.js.
+- `tailwind.config.ts`: Tailwind CSS configuration.
+- `tsconfig.json`: TypeScript configuration.
 
-## Learn More
+## Contributing
 
-To learn more about Next.js, take a look at the following resources:
+I welcome contributions to make this portfolio even better. If you have suggestions or improvements, please fork the repo, create a feature branch, commit your changes, and open a pull request.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## License
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+This project is open-source and available under the MIT License. See the `LICENSE` file for more information.
 
-## Deploy on Vercel
+## Contact
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Bhabishya Luitel - bhabishyaluitel@gmail.com
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Project Link: [https://github.com/BhabishyaLuitel/Bhabishya-Portfoliio](https://github.com/BhabishyaLuitel/Bhabishya-Portfoliio)
