@@ -15,7 +15,7 @@ export default function Example() {
         
 			<Navigation />
 			<div className="flex items-center justify-center min-h-screen px-4">
-            <div className="max-w-4xl w-full rounded-lg shadow-2xl hover:scale-105 transition-transform duration-500 ease-in-out backdrop-blur-md bg-black/70 border border-gray-700 overflow-hidden">
+            <div className="max-w-4xl w-full rounded-lg shadow-2xl hover:scale-105 transition-transform duration-500 ease-in-out backdrop-blur-md bg-black/70   overflow-hidden">
     <Card>
         <div className="p-6 space-y-4 flex flex-col items-center justify-center text-zinc-400 ">
             <h2 className="text-3xl lg:text-4xl font-bold mb-2 text-transparent bg-clip-text bg-gradient-to-r text-zinc-500 hover:text-white to-transparent">
